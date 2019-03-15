@@ -22,7 +22,7 @@ robot by using the Python programming language.
 We have used [Eelviny](https://github.com/Eelviny/nxt-python) nxt-python repository for installation
 and as a guideline throughout this school project so check it out for further information
 before continuing on this project. You will need to download a zip file from this repository. All modifying of these
-source codes fall under Eelviny's [License](https://github.com/Eelviny/nxt-python/blob/master/LICENSE)
+source codes fall under GNU General Public License v3.0 [License](https://github.com/Eelviny/nxt-python/blob/master/LICENSE)
 
 # Requirements
 
