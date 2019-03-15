@@ -21,7 +21,15 @@ robot by using the Python programming language.
 
 We have used [Eelviny](https://github.com/Eelviny/nxt-python) nxt-python repository for installation
 and as a guideline throughout this school project so check it out for further information
-before continuing on this project. You will need to download a zip file from this repository.
+before continuing on this project. You will need to download a zip file from this repository. All modifying of these
+source codes fall under Eelviny's [License](https://github.com/Eelviny/nxt-python/blob/master/LICENSE)
+
+# Requirements
+
+- Windows 10 operating system 
+- Bluetooth on your computer
+- Pybluez (see the installation guide below)
+- Python 2.7 (see the installation guide below)
 
 # Installation guide
 
