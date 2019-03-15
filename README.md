@@ -26,6 +26,7 @@ source codes fall under GNU General Public License v3.0 [License](https://github
 
 # Requirements
 
+- LEGO Mindstorms NXT
 - Windows 10 operating system 
 - Bluetooth on your computer
 - Pybluez (see the installation guide below)
