@@ -14,8 +14,10 @@ building complex control systems.”
 
 # Goals of the project.
 
-The goal for our project is to manually controll the Lego Mindstorm NXT
-robot by using the Python programming language.
+The goal for our project is to create two separate modules for the Lego Mindstorms NXT.
+One module should contain the ability to remote control the robot using the keyboard on the computer.
+The other module will be a line follower. The goal for this module is for the nxt robot to follow a 
+black line automatically using the nxt light sensor. 
 
 # Sources
 
