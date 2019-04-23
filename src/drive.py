@@ -16,7 +16,7 @@ m_left = Motor(b, PORT_B)
 m_right = Motor(b, PORT_C)
 
 
-# Motor value must be a number between -128 and 127
+# Motor value must be a number between -128 and 127 
 def forward():
     m_right.run(127)
     m_left.run(127)
