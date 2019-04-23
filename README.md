@@ -52,3 +52,13 @@ If a command module opens and scroll text, the installation is successfull.
 and follow the installation guide.
 
 5. Code examples of our project will occur here later on.
+
+# Developers
+
+Andreassen, Jarl
+Lømsland, Sondre
+Markeng, Øyvind Hammer
+Mathisen, Vegard Saavesen
+Aas, Knut Andreas
+
+
