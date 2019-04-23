@@ -57,10 +57,14 @@ and follow the installation guide.
 
 # Developers
 
-Andreassen, Jarl  
-Lømsland, Sondre  
-Markeng, Øyvind Hammer  
-Mathisen, Vegard Saavesen  
-Aas, Knut Andreas  
+[Andreassen, Jarl](https://github.com/Genijarl)
+  
+[Lømsland, Sondre](https://github.com/Sondrelo)
+  
+[Markeng, Øyvind Hammer](https://github.com/OyvindHammerMarkeng)
+  
+[Mathisen, Vegard Saavesen](https://github.com/vegardmathisen)
+  
+[Aas, Knut Andreas](https://github.com/nokaas) 
 
 
