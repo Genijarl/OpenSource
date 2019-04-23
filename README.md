@@ -53,7 +53,7 @@ If a command module opens and scroll text, the installation is successfull.
 4. Download the PyBluez-0.20.win32-py2.7.exe version of [PyBluez](https://code.google.com/archive/p/pybluez/downloads)
 and follow the installation guide.
 
-5. Code examples of our project will occur here later on.
+5. Try out our codes! You can find them [here](https://github.com/Genijarl/OpenSource/tree/master/src)
 
 # Developers
 
