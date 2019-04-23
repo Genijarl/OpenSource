@@ -55,10 +55,10 @@ and follow the installation guide.
 
 # Developers
 
-Andreassen, Jarl
-Lømsland, Sondre
-Markeng, Øyvind Hammer
-Mathisen, Vegard Saavesen
-Aas, Knut Andreas
+Andreassen, Jarl  
+Lømsland, Sondre  
+Markeng, Øyvind Hammer  
+Mathisen, Vegard Saavesen  
+Aas, Knut Andreas  
 
 
