@@ -19,6 +19,11 @@ One module should contain the ability to remote control the robot using the keyb
 The other module will be a line follower. The goal for this module is for the nxt robot to follow a 
 black line automatically using the nxt light sensor. 
 
+# Result
+
+As the project comes to an end, we have reached the goals we set for ouselves. See a video representation of the line follower and remote control modules below (link). 
+https://www.youtube.com/watch?v=y879OqlEdXM&feature=youtu.be&fbclid=IwAR0pkgg_cAP0F1aOli79GhViKRTp-nCQjFX-oZ_mQyk5h-Y2HWJUGQVQAPo
+
 # Sources
 
 We have used [Eelviny](https://github.com/Eelviny/nxt-python) nxt-python repository for installation
