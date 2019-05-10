@@ -7,29 +7,40 @@ from nxt.motor import *
 
 import Tkinter as tk
 
-import sys
-
 import time
 
 b = find_one_brick()
 m_left = Motor(b, PORT_B)
 m_right = Motor(b, PORT_C)
+m_vertical = Motor(b, PORT_A)
 
 
-# Motor value must be a number between -128 and 127 
-def forward():
+# Motor value must be a number between -128 and 127
+def fast_forward():
     m_right.run(127)
     m_left.run(127)
+
+def slow_forward():
+    m_right.run(60)
+    m_left.run(60)
 
 def reverse():
     m_right.run(-70)
     m_left.run(-70)
 
-def left():
+def slow_left():
+    m_right.run(60)
+    m_left.brake()
+
+def slow_right():
+    m_left.run(60)
+    m_right.brake()
+
+def fast_left():
     m_right.run(127)
     m_left.run(60)
 
-def right():
+def fast_right():
     m_left.run(127)
     m_right.run(60)
 
@@ -40,27 +51,28 @@ def stop():
 def honk():
     b.play_tone_and_wait(523, 500)
 
-def close():
-    print 'Bye!'
-    exit()
 
 def drive(go):
     print 'Drive command: ', go.char
     key_press = go.char
     if key_press.lower() == 'w':
-        forward()
+        fast_forward()
     elif key_press.lower() == 's':
         reverse()
     elif key_press.lower() == 'a':
-        left()
+        fast_left()
     elif key_press.lower() == 'd':
-        right()
+        fast_right()
     elif key_press.lower() == 'q':
+        slow_left()
+    elif key_press.lower() == 'e':
+        slow_right()
+    elif key_press.lower() == 'b':
         stop()
+    elif key_press.lower() == 'x':
+        slow_forward()
     elif key_press.lower() == 'h':
         honk()
-    elif key_press.lower() == 'l':
-        close()
 
 command = tk.Tk()
 command.bind('<KeyPress>', drive)
