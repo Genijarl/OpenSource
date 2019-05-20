@@ -14,7 +14,7 @@ m_left = Motor(b, PORT_B)
 m_right = Motor(b, PORT_C)
 m_vertical = Motor(b, PORT_A)
 
-
+# Different methods for driving the nxt
 # Motor value must be a number between -128 and 127
 def fast_forward():
     m_right.run(127)
@@ -52,6 +52,7 @@ def honk():
     b.play_tone_and_wait(523, 500)
 
 
+# Connects the methods above to an assigned key on the keyboard
 def drive(go):
     print 'Drive command: ', go.char
     key_press = go.char
@@ -74,6 +75,7 @@ def drive(go):
     elif key_press.lower() == 'h':
         honk()
 
+# Opens tkinter to bind keys from method drive to cmd
 command = tk.Tk()
 command.bind('<KeyPress>', drive)
 command.mainloop()
