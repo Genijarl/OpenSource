@@ -12,7 +12,7 @@ mathematics. It allows for creativity in design and it
 enables students to explore the world of engineering by
 building complex control systems.”
 
-# Goals of the project.
+# Goals of the project
 
 The goal for our project is to create two separate modules for the Lego Mindstorms NXT.
 One module should contain the ability to remote control the robot using the keyboard on the computer.
