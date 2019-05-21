@@ -31,4 +31,4 @@ print light_value
 This is the left line follower. If the light sensor registrers a light_value excess of 500: the left wheel(motor) will brake and the right wheel will run. Else the right wheel will brake and the left wheel wil run. 
 This means that the robot will "wiggle" its way along the black line interval-wise, continously for 30 seconds.
 
-
+![59707675_2299391843662086_7613240616364802048_n](https://user-images.githubusercontent.com/35763714/57302412-6a97e900-70db-11e9-89ad-a141db3e335b.jpg)
