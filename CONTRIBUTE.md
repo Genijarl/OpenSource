@@ -45,6 +45,7 @@ that can offend individuals in any section of this project.
 
 - Contribute your code to the correct branch
 - Follow the code standards and test the code before pushing
+- Do not disrespect anyone
 - Have fun while coding!
 
 
