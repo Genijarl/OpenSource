@@ -39,7 +39,7 @@ If the code is found allright with the code standards and the nature of the proj
 
 ## Ethics
 There shall be no degrading comments regarding ethnicity, religion, sexual orientation, sexual harassment or other subjects
-that can offend individuals in any part related to this project.
+that can offend individuals in any section of this project.
 
 ## Summary
 
