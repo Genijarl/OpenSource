@@ -37,6 +37,10 @@ for the code standards:
 When done coding, send a pull request to the correct branch and a moderator will review and evaluate the code.
 If the code is found allright with the code standards and the nature of the project it will be implemented.
 
+## Ethics
+There shall be no degrading comments regarding ethnicity, religion, sexual orientation, sexual harassment or other subjects
+that can offend individuals in any part related to this project.
+
 ## Summary
 
 - Contribute your code to the correct branch
