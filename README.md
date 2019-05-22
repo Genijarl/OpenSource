@@ -20,7 +20,7 @@ black line automatically using the nxt light sensor.
 
 ## Result
 
-As the project comes to an end, we have reached the goals we set for ouselves. See a video representation of the line follower and remote control modules [here](https://www.youtube.com/watch?v=y879OqlEdXM&feature=youtu.be&fbclid=IwAR0pkgg_cAP0F1aOli79GhViKRTp-nCQjFX-oZ_mQyk5h-Y2HWJUGQVQAPo). <-- Video representation of the code
+As the project comes to an end, we have reached the goals we set for ouselves. See a video representation of the line follower and remote control modules [here](https://www.youtube.com/watch?v=y879OqlEdXM&feature=youtu.be&fbclid=IwAR0pkgg_cAP0F1aOli79GhViKRTp-nCQjFX-oZ_mQyk5h-Y2HWJUGQVQAPo). <-- Video representation
 
 
 ## Sources
