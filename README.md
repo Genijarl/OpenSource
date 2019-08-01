@@ -2,6 +2,8 @@ IS-213-1 19V Team Machine - Open source project
 
 University of Agder - Spring 2019
 
+#THIS PROJECT IS NO LONGER ACTIVE
+
 # LEGO MINDSTORMS NXT
 
 “LEGO® MINDSTORMS® NXT for Education enables students to build and program
